@@ -10,7 +10,7 @@
 - 🎓 Estudante de **Engenharia de Software** / **Tecnologia**
 - 📍 Baseado no **Brasil** 🇧🇷
 - 💡 Apaixonado por **IA/Agentes de IA**, **High-Performance Computing**, **Full-Stack** e **Hardware**
-- 🎮 Gosto de **jogos competitivos** (League of Legends, AAA) e **montar PCs** focados em custo-beneficio
+- 🎮 Gosto de **jogos competitivos** (League of Legends, Valorant, AAA) e **montar PCs**
 
 ---
 

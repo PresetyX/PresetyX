@@ -104,7 +104,7 @@
 ## 🎨 Anime Vibes
 
 <div align="center">
-  <img src="https://media.tenor.com/1L6fHJk7g3IAAAAi/code-geass-lelouch.gif" alt="Anime coding vibes" width="400"/>
+  <img src="https://c.tenor.com/kFe-oEFAmU8AAAAC/tenor.gif" alt="Anime coding vibes" width="400"/>
 </div>
 
 ---
@@ -112,8 +112,8 @@
 ## 🔗 Vamos conectar!
 
 - **GitHub:** [PresetyX](https://github.com/PresetyX)
-- **LinkedIn:** [Adicione seu LinkedIn aqui](https://www.linkedin.com/in/seu-perfil)
-- **E-mail:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pedrohbcdev)
+- **E-mail:** [pedro.henriquebcosta2@gmail.com](mailto:pedro.henriquebcosta2@gmail.com)
 
 ---
 

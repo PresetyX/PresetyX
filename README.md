@@ -1,20 +1,20 @@
-# 👋 Olá, eu sou o Pedro Henrique!
+# Olá, eu sou o Pedro Henrique!
 
 **AI/Software Engineer @ Instituto de Pesquisas Eldorado | C++ & .NET Core | High-Performance Computing | Full-Stack Developer**
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 💼 Atualmente trabalhando com **Inteligencia Artificial** e **Engenharia de Software** no **Instituto de Pesquisas Eldorado**
-- 🎓 Estudante de **Engenharia de Software** / **Tecnologia**
-- 📍 Baseado no **Brasil** 🇧🇷
-- 💡 Apaixonado por **IA/Agentes de IA**, **High-Performance Computing**, **Full-Stack** e **Hardware**
-- 🎮 Gosto de **jogos competitivos** (League of Legends, Valorant, AAA) e **montar PCs**
+-  Atualmente trabalhando com **Inteligencia Artificial** e **Engenharia de Software** no **Instituto de Pesquisas Eldorado**
+-  Estudante de **Engenharia de Software** / **Tecnologia**
+-  Baseado no **Brasil** 🇧🇷
+-  Apaixonado por **IA/Agentes de IA**, **High-Performance Computing**, **Full-Stack** e **Hardware**
+-  Gosto de **jogos competitivos** (League of Legends, Valorant, AAA) e **montar PCs**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Linguagens de Programacao
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -109,7 +109,7 @@
 
 ---
 
-## 🔗 Vamos conectar!
+## Vamos conectar!
 
 - **GitHub:** [PresetyX](https://github.com/PresetyX)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pedrohbcdev)

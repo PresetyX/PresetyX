@@ -44,7 +44,26 @@
 
 ---
 
+## 🎨 Anime Vibes
+
+
+
+<div align="center">
+
+  <img src="https://c.tenor.com/kFe-oEFAmU8AAAAC/tenor.gif" alt="Anime coding vibes" width="400"/>
+
+</div>
+
+---
+
 ## 📬 Vamos conectar!
 
 - **LinkedIn:** [Pedro Henrique Bonetto da Costa](https://www.linkedin.com/in/pedrohbcdev)
 - **E-mail:** [pedro.henriquebcosta2@gmail.com](mailto:pedro.henriquebcosta2@gmail.com)
+
+<p align="center">
+
+  <em>"Codigo limpo, performance alta e cafe forte ☕"</em>
+
+</p> 
+

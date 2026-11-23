@@ -5,12 +5,12 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-- 🤖 **Residente em IA** no Instituto de Pesquisas Eldorado, focado em LLMs locais (Gemma 2 via Ollama), RAG vetorial e agentes de IA.
-- 🎓 Estudante de **Engenharia de Software** na PUC-Campinas (Previsão de formatura: Dezembro/2028).
-- 🛠️ Desenvolvedor do **restaurant-support-agent** (Agente autônomo com Tool Calling, RAG e CI/CD para o ecossistema iFood).
-- 📍 Baseado em Indaiatuba, SP — Brasil 🇧🇷
+-  **Residente em IA** no Instituto de Pesquisas Eldorado, focado em LLMs locais (Gemma 2 via Ollama), RAG vetorial e agentes de IA.
+-  Estudante de **Engenharia de Software** na PUC-Campinas (Previsão de formatura: Dezembro/2028).
+-  Desenvolvedor do **restaurant-support-agent** (Agente autônomo com Tool Calling, RAG e CI/CD para o ecossistema iFood).
+-  Baseado em Indaiatuba, SP — Brasil 🇧🇷
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 📌 Repositórios em Destaque
+##  Repositórios em Destaque
 
 - 🍔 **[restaurant-support-agent](https://github.com/PresetyX/restaurant-support-agent):** Agente autônomo com RAG vetorial, Tool Calling (`get_order_status`), fallback humano, 56 testes automatizados e CI/CD.
 - 📅 **Destrava:** Agentes de agenda integrados à Google Calendar API com Gemma 2 local via Ollama e contratos JSON.
@@ -44,7 +44,7 @@
 
 ---
 
-## 🎨 Anime Vibes
+##  Anime Vibes
 
 
 

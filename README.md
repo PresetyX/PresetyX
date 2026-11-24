@@ -60,11 +60,12 @@
 
 ##  Contribuições open source
 
-PRs que abri em projetos upstream (todos abertos, aguardando revisão):
+PRs que abri em projetos upstream. O do crewAI já foi **mergeado**; os demais estão abertos, aguardando revisão:
+
+- ✅ **[crewAIInc/crewAI#9693](https://github.com/crewAIInc/crewAI/pull/9693) (mergeado):** renomeia classes auxiliares `Test*` de teste para `*Stub`, eliminando warnings de coleta do pytest.
 
 - **[ollama/ollama#19864](https://github.com/ollama/ollama/pull/19864):** `readline` passa a manter a última entrada do histórico sem newline final e a checar erros ao salvar.
 - **[google/tunix#3454](https://github.com/google/tunix/pull/3454):** `QwenToolParser` ignora tool calls malformadas em vez de lançar exceção.
-- **[crewAIInc/crewAI#9693](https://github.com/crewAIInc/crewAI/pull/9693):** renomeia classes auxiliares `Test*` de teste para `*Stub`, eliminando warnings de coleta do pytest.
 - **[huggingface/smolagents#3270](https://github.com/huggingface/smolagents/pull/3270):** `make_json_serializable` passa a tratar referências circulares em vez de estourar `RecursionError`.
 - **[huggingface/smolagents#3271](https://github.com/huggingface/smolagents/pull/3271):** corrige `_get_json_schema_type`, que nunca retornava `image`/`audio`.
 

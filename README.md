@@ -54,7 +54,7 @@
 ##  Featured Repositories
 
 - 🍔 **[restaurant-support-agent](https://github.com/PresetyX/restaurant-support-agent):** Autonomous agent with vector RAG, tool calling (`get_order_status`), human handoff, 56 automated tests and CI/CD.
-- 📅 **Destrava:** Calendar agents integrated with the Google Calendar API, using local Gemma 2 via Ollama and JSON contracts.
+- 📅 **[Destrava](https://github.com/PresetyX/Residence_AI_Challenge-2):** Calendar agents integrated with the Google Calendar API, using local Gemma 2 via Ollama and JSON contracts.
 - 🧪 **[BioAgent-Discovery](https://github.com/PresetyX/BioAgent-Discovery):** LangGraph multi-agent pipeline for biomedical screening and research with Chroma DB.
 - 🚀 **[LeadHunter](https://github.com/PresetyX/LeadHunter):** SaaS platform for automated lead prospecting and generation, built with Next.js and Node.js.
 

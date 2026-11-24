@@ -1,28 +1,30 @@
-# Olá, eu sou o Pedro Henrique! 👋
+🌐 **English** | [Português (BR)](https://github.com/PresetyX/PresetyX/blob/main/README.pt-BR.md)
+
+# Hi, I'm Pedro Henrique! 👋
 
 **AI Builder & Software Engineer Intern @ Instituto de Pesquisas Eldorado**  
-*Desenvolvendo agentes autônomos, pipelines RAG, arquiteturas com LLMs e microsserviços em Python.*
+*Building autonomous agents, RAG pipelines, LLM-based architectures and microservices in Python.*
 
 ---
 
-##  Sobre mim
+##  About me
 
--  **Residente em IA** no Instituto de Pesquisas Eldorado, focado em LLMs locais (Gemma 2 via Ollama), RAG vetorial e agentes de IA.
--  Estudante de **Engenharia de Software** na PUC-Campinas (Previsão de formatura: Dezembro/2028).
--  Desenvolvedor do **restaurant-support-agent** (Agente autônomo com Tool Calling, RAG e CI/CD para o ecossistema iFood).
--  Baseado em Indaiatuba, SP — Brasil 🇧🇷
+-  **AI Resident** at Instituto de Pesquisas Eldorado, focused on local LLMs (Gemma 2 via Ollama), vector RAG and AI agents.
+-  **Software Engineering** student at PUC-Campinas (expected graduation: December 2028).
+-  Developer of **restaurant-support-agent** (autonomous agent with tool calling, RAG and CI/CD for the iFood ecosystem).
+-  Based in Indaiatuba, SP — Brazil 🇧🇷
 
 ---
 
-## 🛠️ Tech Stack Principal
+## 🛠️ Main Tech Stack
 
-### Linguagens
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### IA & Agentes
+### AI & Agents
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -38,7 +40,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Dados & DevOps
+### Data & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,25 +51,25 @@
 
 ---
 
-##  Repositórios em Destaque
+##  Featured Repositories
 
-- 🍔 **[restaurant-support-agent](https://github.com/PresetyX/restaurant-support-agent):** Agente autônomo com RAG vetorial, Tool Calling (`get_order_status`), fallback humano, 56 testes automatizados e CI/CD.
-- 📅 **Destrava:** Agentes de agenda integrados à Google Calendar API com Gemma 2 local via Ollama e contratos JSON.
-- 🧪 **[BioAgent-Discovery](https://github.com/PresetyX/BioAgent-Discovery):** Pipeline multi-agente em LangGraph para triagem e pesquisa biomédica com Chroma DB.
-- 🚀 **[LeadHunter](https://github.com/PresetyX/LeadHunter):** Plataforma SaaS de prospecção e geração automatizada de leads em Next.js e Node.js.
+- 🍔 **[restaurant-support-agent](https://github.com/PresetyX/restaurant-support-agent):** Autonomous agent with vector RAG, tool calling (`get_order_status`), human handoff, 56 automated tests and CI/CD.
+- 📅 **Destrava:** Calendar agents integrated with the Google Calendar API, using local Gemma 2 via Ollama and JSON contracts.
+- 🧪 **[BioAgent-Discovery](https://github.com/PresetyX/BioAgent-Discovery):** LangGraph multi-agent pipeline for biomedical screening and research with Chroma DB.
+- 🚀 **[LeadHunter](https://github.com/PresetyX/LeadHunter):** SaaS platform for automated lead prospecting and generation, built with Next.js and Node.js.
 
 ---
 
-##  Contribuições open source
+##  Open source contributions
 
-PRs que abri em projetos upstream. O do crewAI já foi **mergeado**; os demais estão abertos, aguardando revisão:
+PRs I opened in upstream projects. The crewAI one has been **merged**; the others are open, awaiting review:
 
-- ✅ **[crewAIInc/crewAI#9693](https://github.com/crewAIInc/crewAI/pull/9693) (mergeado):** renomeia classes auxiliares `Test*` de teste para `*Stub`, eliminando warnings de coleta do pytest.
+- ✅ **[crewAIInc/crewAI#9693](https://github.com/crewAIInc/crewAI/pull/9693) (merged):** renames `Test*` test helper classes to `*Stub`, eliminating pytest collection warnings.
 
-- **[ollama/ollama#19864](https://github.com/ollama/ollama/pull/19864):** `readline` passa a manter a última entrada do histórico sem newline final e a checar erros ao salvar.
-- **[google/tunix#3454](https://github.com/google/tunix/pull/3454):** `QwenToolParser` ignora tool calls malformadas em vez de lançar exceção.
-- **[huggingface/smolagents#3270](https://github.com/huggingface/smolagents/pull/3270):** `make_json_serializable` passa a tratar referências circulares em vez de estourar `RecursionError`.
-- **[huggingface/smolagents#3271](https://github.com/huggingface/smolagents/pull/3271):** corrige `_get_json_schema_type`, que nunca retornava `image`/`audio`.
+- **[ollama/ollama#19864](https://github.com/ollama/ollama/pull/19864):** `readline` now keeps the last history entry without a trailing newline and checks for errors when saving.
+- **[google/tunix#3454](https://github.com/google/tunix/pull/3454):** `QwenToolParser` ignores malformed tool calls instead of raising an exception.
+- **[huggingface/smolagents#3270](https://github.com/huggingface/smolagents/pull/3270):** `make_json_serializable` now handles circular references instead of blowing up with `RecursionError`.
+- **[huggingface/smolagents#3271](https://github.com/huggingface/smolagents/pull/3271):** fixes `_get_json_schema_type`, which never returned `image`/`audio`.
 
 ---
 
@@ -83,14 +85,14 @@ PRs que abri em projetos upstream. O do crewAI já foi **mergeado**; os demais e
 
 ---
 
-## 📬 Vamos conectar!
+## 📬 Let's connect!
 
 - **LinkedIn:** [Pedro Henrique Bonetto da Costa](https://www.linkedin.com/in/pedrohbcdev)
-- **E-mail:** [pedro.henriquebcosta2@gmail.com](mailto:pedro.henriquebcosta2@gmail.com)
+- **Email:** [pedro.henriquebcosta2@gmail.com](mailto:pedro.henriquebcosta2@gmail.com)
 
 <p align="center">
 
-  <em>"Codigo limpo, performance alta e cafe forte ☕"</em>
+  <em>"Clean code, high performance and strong coffee ☕"</em>
 
 </p> 
 
